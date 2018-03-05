@@ -18,7 +18,7 @@ from torchvision import models
 
 outputlayer = [17,26,35]
 numlayers = len(outputlayer)
-layerweights = [0.25,0,5,1]
+layerweights = [0.25,0.5,1]
 
 lam = 1e-4
 cell_size = 4
