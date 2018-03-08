@@ -1,2 +1,2 @@
 # Tracking
-Some object tracking program
+Some program of object tracking
